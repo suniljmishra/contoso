@@ -1,0 +1,19 @@
+{
+    "Contoso Title": "Contoso",
+    "Home Screen Title": "Home",
+    "Welcome to Contoso": "Welcome to Contoso",
+    "Adventures App": "Adventures App.",
+    "Today is": "Today is:",
+    "Logout Button Text": "Logout",
+    "Username Empty Validation": "Please enter the Username",
+    "Password Empty Validation": "Please enter the Password",
+    "Password Length Validation": "The Password should be atleast 8 characters long",
+    "Email Empty Validation": "Please enter the Email Id",
+    "Email Valid Validation": "Please enter a valid Email Id",
+    "Username Placeholder": "Username",
+    "Password Placeholder": "Password",
+    "Email Placeholder": "Email Id",
+    "Login Button Text": "Login",
+    "Register Button Text": "Register",
+    "Registration Screen Title": "Register"
+}
